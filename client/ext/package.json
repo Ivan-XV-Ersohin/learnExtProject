@@ -1,0 +1,78 @@
+{
+  "name": "ext",
+  "namespace": "Ext",
+  "format": "1",
+  "version": "6.2.1.167",
+  "compatVersion": "6.2.0",
+  "creator": "localrepo",
+  "summary": "Ext JS",
+  "detailedDescription": "Sencha Ext JS JavaScript Framework",
+  "type": "framework",
+  "signatures": [
+    {
+      "name": "localrepo",
+      "uuid": "7d6c1131-5b7c-47f6-8159-ef7fe8696400",
+      "created": "2017-04-10T15:30:46Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "i7T+hxTQYSw\u003d",
+      "signature": "H80YngIQkayoFruXNv3n/NzEkBVvnaCZPMp+pg5ZWAeNXdp96Nla/kjqG+bfRnEqXYnom+w0Ta9t/d1VtMV5jCke0NSnv/Upov8zCssLpwrx5y9QC9NWf3AvfNB80NZIIDbXOf36rq0DAak+spio0G7LzmJdSAh/0sKEekDJGEl0uCbmxhmmlG9bxBGXrBm//yhDvRD4zRLGDsihOGV6aqsV5/qmaHwSJUtS+szuKB2C1Pnw3MtTKMtoMgv+LvO4lICkKWm2l9fqrZc4sFV0fAY+RnCI+r8cJ1X3vJFr91jP+nPdXOb5O6MeQ3L4UosLnEpds6osYrN32DORUKfQ0A\u003d\u003d"
+    }
+  ],
+  "output": "${package.dir}/build",
+  "build": {
+    "dir": "${package.output.base}"
+  },
+  "sass": {
+    "fashion": true,
+    "namespace": "Ext",
+    "etc": "${package.dir}/sass/etc/all.scss",
+    "var": "${package.dir}/sass/var",
+    "src": "${package.dir}/sass/src"
+  },
+  "classpath": "${package.dir}/src",
+  "overrides": "${package.dir}/overrides",
+  "resource": {
+    "paths": [
+      "resources"
+    ]
+  },
+  "example": {
+    "path": [
+      "examples",
+      "templates"
+    ],
+    "apps": [
+      "admin-dashboard",
+      "executive-dashboard",
+      "feed-viewer",
+      "kitchensink",
+      "calendar",
+      "classic/desktop",
+      "classic/ticket-app",
+      "classic/portal",
+      "classic/simple-tasks",
+      "classic/responsive-app",
+      "classic/aria",
+      "modern/addressbook",
+      "modern/blackberry",
+      "modern/energy",
+      "modern/stockapp",
+      "modern/states",
+      "modern/geocongress",
+      "modern/oreilly"
+    ]
+  },
+  "subpkgs": [
+    "classic/classic",
+    "modern/modern",
+    "packages/charts",
+    "packages/amf",
+    "packages/soap",
+    "packages/ux",
+    "packages/google",
+    "packages/legacy",
+    "packages/font-awesome",
+    "packages/font-pictos",
+    "packages/font-ext"
+  ]
+}

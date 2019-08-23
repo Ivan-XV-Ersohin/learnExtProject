@@ -1,0 +1,23 @@
+{
+  "data": {
+    "created": "2017-03-19T07:24:46Z",
+    "email": "localrepo@localhost",
+    "expires": "2022-03-20T00:00:00Z",
+    "name": "localrepo",
+    "uuid": "7d6c1131-5b7c-47f6-8159-ef7fe8696400"
+  },
+  "publicKey": {
+    "algorithm": "RSA",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxjO7hyTB3U0OZ0A3BXui05XCeopk9N0CN9sFNspVBVYBDXPDxdgeVA7zh3EIDssehOFFLbve8/eTMSepd6+1xRW3ouDIkErhp0MFo2yt0gHw0907rVJ8lC2d2pqX9NdLUw1uMfHzVj/jQX7bqGB3VvCJUOWP0+LIeCgi+qZGJbI8fnL4fN/IJTgBn1r1TQ4waPEfoRRvctN1hZ97pK4IHus78LEAKfyHRG7nzZhkVVf/57tjRaweocwbiryofzYrsZbiLnQIe6wQPzYwgIYfTFjFFo6r/+rTi1/QZ15reWjLlqkpbnBvg66+dgplPAtLeokeQrBzQEiwEgAiYF/rXwIDAQAB"
+  },
+  "signatures": [
+    {
+      "name": "localrepo",
+      "uuid": "7d6c1131-5b7c-47f6-8159-ef7fe8696400",
+      "created": "2017-03-19T07:24:49Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "OB0uOvNetr0\u003d",
+      "signature": "JLVDdGopTdMZo/A5+zl2lTINynGNqZ+Uj6e1wqnkdG+C79Pw+TqULoIRU2JW3drNIVJ/I9ZQRbYRPnJdGof2lJNnelPpE/9ZCSLeAYJU4z4hjeMy7yq7OhqoT9aGBAcdmY1LkHc+/5F/STymGzY0fJtnOkRzFVZi+fgKHsmfIU3gfctRgdh4rXUQAriOaeZ9pgFX0fJRlLEGz0UlktPlBHEIBhBOYBe7X+ZxUC01CBbhCkVCBS4KcuO5RvpPURS/KmjDf86phtAc/pYyYcjb1FI8JzjZASRgyCZd53zbVQJPJ7NKqlE9YQhwG8VwC2oxgZ0WRJ1rdzwOX4Ajd3xsxg\u003d\u003d"
+    }
+  ]
+}

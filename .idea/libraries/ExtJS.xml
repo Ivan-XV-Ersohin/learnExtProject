@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="ExtJS" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/Desktop/ext-6.2.1.167" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/ext-6.2.1.167" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

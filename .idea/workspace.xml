@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JSONExtJS:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc74f832-60f4-4ede-8d57-509ab885548e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Postgres" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="6d9b600a:PostgresImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="authors: table" type="a93d6ac6:PostgresImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="books: table" type="a93d6ac6:PostgresImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Postgres" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="books_genres: table" type="a93d6ac6:PostgresImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Runnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/FunctionalInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/annotation/RetentionPolicy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/reflect/AnnotatedElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="256" column="17" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#19368#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/reflect/AccessibleObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="202" column="7" selection-start-line="202" selection-start-column="7" selection-end-line="202" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/reflect/Method.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="463" column="57" selection-start-line="463" selection-start-column="57" selection-end-line="463" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final-sources.jar!/javax/transaction/Transactional.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/annotation/Transactional.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="88" column="53" selection-start-line="88" selection-start-column="53" selection-end-line="88" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/annotation/Propagation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="90" column="75" selection-start-line="90" selection-start-column="75" selection-end-line="90" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/annotation/Isolation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="69" column="33" lean-forward="true" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>on('clos</find>
+      <find>on('redirectFromWelcomePage'</find>
+      <find>doposty</find>
+      <find>userListPanel</find>
+      <find>EntityDao</find>
+      <find>persist</find>
+      <find>save</find>
+      <find>doget</find>
+      <find>UserModel</find>
+      <find>UserMo</find>
+      <find>T</find>
+      <find>user</find>
+      <find>theme</find>
+      <find>BooksEntity</find>
+      <find>nep</find>
+      <find>neptune</find>
+      <find>isbn</find>
+      <find>webReaderLink</find>
+      <find>Ext.util.CSS.createStyleSheet(</find>
+      <find>'</find>
+      <find>package</find>
+      <find>css</find>
+      <find>resources</find>
+      <find>&quot;css&quot;:</find>
+      <find>})</find>
+      <find>start</find>
+      <find>immutable</find>
+      <find>add(</find>
+      <find>binar</find>
+      <find>invoke</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>String</replace>
+      <replace>EntityDao</replace>
+      <replace>BooksEntity</replace>
+      <replace>entityDao</replace>
+      <replace>book</replace>
+      <replace>authorsDAO</replace>
+      <replace>AuthorsDao</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/models/books/BooksDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/models/genres/GenresDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/models/authors/AuthorsDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/service/ServiceObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/service/BooksService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/service/books/BooksService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/service/authors/AuthorsService.java" />
+        <option value="$PROJECT_DIR$/client/app/model/author/Author.js" />
+        <option value="$PROJECT_DIR$/client/app/view/startpage/ViewController.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/form/ViewBook.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/form/loadedBook/ViewBook.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/form/loadedBook/View.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/form/loadedBook/Reader.js" />
+        <option value="$PROJECT_DIR$/client/app/Application.js" />
+        <option value="$PROJECT_DIR$/client/app/model/book/loadedBook.js" />
+        <option value="$PROJECT_DIR$/client/app/model/book/Book.js" />
+        <option value="$PROJECT_DIR$/client/app/model/book/LoadedBook.js" />
+        <option value="$PROJECT_DIR$/client/app/model/book/BookItems.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/form/ViewModel.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/grid/View.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/grid/Controller.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/form/View.js" />
+        <option value="$PROJECT_DIR$/client/app/responceForExplore.json" />
+        <option value="$PROJECT_DIR$/client/app/view/books/form/Controller.js" />
+        <option value="$PROJECT_DIR$/client/app.json" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/form/Controller.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/form/View.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/form/ViewModel.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/grid/Controller.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/grid/ViewModel.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/ViewModel.js" />
+        <option value="$PROJECT_DIR$/client/resources/css/custom.css" />
+        <option value="$PROJECT_DIR$/client/app/view/startpage/View.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/loadedInfo/Contorller.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/loadedInfo/View.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/Controller.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/View.js" />
+        <option value="$PROJECT_DIR$/client/app/view/main/Controller.js" />
+        <option value="$PROJECT_DIR$/client/app/view/base/Controller.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/grid/View.js" />
+        <option value="$PROJECT_DIR$/client/app/view/main/Main.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/Controller.js" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/loadedInfo/View.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/models/authors/AuthorsEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/dao/BooksDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/dao/GenresDao.java" />
+        <option value="$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/loadedInfo/Contorller.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/dao/AuthorsDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/application-context/application-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/models/books/BooksEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/app/prod/controller/authors/AuthorsController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JSONExtJS" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JSONExtJS" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JSONExtJS" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Example/ext/classic/classic/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/locale/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-aria/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-base/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-classic-sandbox/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-classic/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-crisp-touch/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-crisp/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-gray/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-neptune-touch/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-neptune/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-neutral/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/theme-triton/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/classic/touch-sizing/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/modern/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-base/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-blackberry/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-cupertino/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-device-base/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-ios/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-material/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-mountainview/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-neptune/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-triton/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/modern/theme-windows/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/amf/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/charts/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/core/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/font-ext/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/font-ios/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/font-pictos/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/google/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/legacy/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/soap/package.json" />
+      <path value="$PROJECT_DIR$/Example/ext/packages/ux/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/classic/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/locale/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-aria/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-base/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-classic-sandbox/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-classic/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-crisp-touch/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-crisp/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-gray/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-neptune-touch/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-neptune/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-neutral/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/theme-triton/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/classic/touch-sizing/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/modern/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-base/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-blackberry/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-cupertino/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-device-base/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-ios/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-material/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-mountainview/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-neptune/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-triton/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/modern/theme-windows/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/amf/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/charts/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/core/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/font-ext/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/font-ios/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/font-pictos/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/google/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/legacy/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/soap/package.json" />
+      <path value="$PROJECT_DIR$/client/ext/packages/ux/package.json" />
+      <path value="$PROJECT_DIR$/client/node_modules/flow-bin/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-7" />
+    <option name="y" value="47" />
+    <option name="width" value="1380" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1PS2y1c3RpfONFtk2qboK8R51Sd" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>DeclarationGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SafeVarargsDetector</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="resources.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566574007471" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webProjectUnpack/webProjects" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\test1\client\build\development\JSONExtJS\classic\resources" />
+      <recent name="D:\Projects\test1\src\main\java\com\app\prod\someObject" />
+      <recent name="D:\Projects\test1\src\main\java\com\app\prod\service" />
+      <recent name="D:\Projects\test1\src\main\java\com\app\prod\controller" />
+      <recent name="D:\Projects\test1\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\test1\client\app\view\books\mainPage\isbnInputForm" />
+      <recent name="D:\Projects\test1\client\app\view\books\mainPage" />
+      <recent name="D:\Projects\test1\client\app\view\books\form\loadedBook" />
+      <recent name="D:\Projects\test1\client\app\view\books\form" />
+      <recent name="D:\Projects\test1\client\app\view\base" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Deploy">
+    <configuration name="Build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Deploy" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="JSONExtJS:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSONExtJS" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_test1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50137" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_test1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63243" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Build" />
+      <item itemvalue="Tomcat Server.Deploy" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc74f832-60f4-4ede-8d57-509ab885548e" name="Default Changelist" comment="" />
+      <created>1564987962665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564987962665</updated>
+      <workItem from="1564987964356" duration="8382000" />
+      <workItem from="1564997656974" duration="4245000" />
+      <workItem from="1565004509087" duration="822000" />
+      <workItem from="1565005768072" duration="6522000" />
+      <workItem from="1565013252158" duration="27620000" />
+      <workItem from="1565102299910" duration="66913000" />
+      <workItem from="1565361436615" duration="636000" />
+      <workItem from="1565362243126" duration="52355000" />
+      <workItem from="1565692846683" duration="31415000" />
+      <workItem from="1565852186064" duration="39000" />
+      <workItem from="1565852311616" duration="25000" />
+      <workItem from="1565852736042" duration="68000" />
+      <workItem from="1565853462310" duration="1194000" />
+      <workItem from="1565855129569" duration="147000" />
+      <workItem from="1565855418316" duration="6771000" />
+      <workItem from="1565866683997" duration="54563000" />
+      <workItem from="1566231106231" duration="89797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="151278000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="47" width="1380" height="735" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.27037036" side_tool="true" weight="0.33882523" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32884097" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.42587602" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32614556" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Application Servers" order="5" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" x="1" y="71" width="1364" height="378" id="Debug" order="8" type="WINDOWED" visible="true" weight="0.33153638" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32884097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" x="1" y="78" width="236" height="696" id="Maven Projects" order="5" type="WINDOWED" visible="true" weight="0.08553824" />
+      <window_info anchor="right" id="Database" order="6" weight="0.20702006" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="9" sideWeight="0.72962964" visible="true" weight="0.22272727" />
+      <window_info anchor="right" x="1" y="513" width="1364" height="325" id="Run" order="10" type="WINDOWED" visible="true" weight="0.3144699" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.27037036" side_tool="true" weight="0.33882523" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32884097" />
+      <window_info anchor="bottom" id="Database Console" order="1" weight="0.42587602" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32749325" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Application Servers" order="6" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" x="1428" y="148" width="1367" height="378" id="Debug" order="9" type="WINDOWED" visible="true" weight="0.33153638" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.32884097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" x="1445" y="152" width="236" height="733" id="Maven Projects" order="5" type="WINDOWED" visible="true" weight="0.08553824" />
+      <window_info anchor="right" id="Database" order="6" weight="0.20702006" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="9" sideWeight="0.72962964" visible="true" weight="0.39040115" />
+      <window_info anchor="right" x="1434" y="537" width="1367" height="325" id="Run" order="10" type="WINDOWED" visible="true" weight="0.3144699" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/client/extjs4-file-upload-spring" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java</url>
+          <line>289</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/prod/books/BooksController.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/prod/books/BooksController.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/app/prod/controller/books/BooksController.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>request.getParameterMap()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.getpara\</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/ext/classic/classic/overrides/dom/Element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="3880" column="19" selection-start-line="3880" selection-start-column="19" selection-end-line="3880" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/build/development/JSONExtJS/classic/resources/JSONExtJS-all_1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="403" column="1" selection-start-line="403" selection-start-column="1" selection-end-line="403" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/form/loadedBook/Reader.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/form/loadedBook/View.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/model/book/LoadedBook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/model/book/BookItems.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/responceForExplore.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#343#382#0" />
+            <element signature="e#965#1168#0" />
+            <element signature="e#1194#1253#0" />
+            <element signature="e#1332#1372#0" />
+            <element signature="e#1526#1617#0" />
+            <element signature="e#1670#1961#0" />
+            <element signature="e#2341#3079#0" />
+            <element signature="e#2762#3071#0" />
+            <element signature="e#3309#3639#0" />
+            <element signature="e#3656#3984#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/resources/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="250" column="7" selection-start-line="250" selection-start-column="7" selection-end-line="250" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/resources/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/View.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/ViewModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/startpage/ViewController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/startpage/View.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/main/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/View.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/grid/View.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/grid/ViewModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/loadedInfo/View.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/model/author/Author.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/model/book/Book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/grid/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/base/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/prod/dao/BooksDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/prod/dao/GenresDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/view/books/mainPage/isbnInputForm/loadedInfo/Contorller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/prod/dao/AuthorsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/application-context/application-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/prod/models/books/BooksEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/prod/models/authors/AuthorsEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/prod/controller/books/BooksController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="705" column="9" lean-forward="true" selection-start-line="705" selection-start-column="9" selection-end-line="705" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="153" column="31" lean-forward="true" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#173148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="1830" column="37" selection-start-line="1830" selection-start-column="37" selection-end-line="1830" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/app/prod/controller/authors/AuthorsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/FunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/annotation/RetentionPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/reflect/AnnotatedElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="256" column="17" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#19368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="202" column="7" selection-start-line="202" selection-start-column="7" selection-end-line="202" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="463" column="57" selection-start-line="463" selection-start-column="57" selection-end-line="463" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar!/javax/transaction/Transactional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE.jar!/org/springframework/transaction/annotation/Transactional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/annotation/Isolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="69" column="33" lean-forward="true" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/annotation/Transactional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="88" column="53" selection-start-line="88" selection-start-column="53" selection-end-line="88" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final-sources.jar!/javax/transaction/Transactional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/annotation/Propagation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="90" column="75" selection-start-line="90" selection-start-column="75" selection-end-line="90" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JSONExtJS:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JSONExtJS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

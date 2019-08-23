@@ -1,0 +1,11 @@
+com\app\prod\dao\GenresDao.class
+com\app\test\testModel\TestModel.class
+com\app\test\controller\TestController.class
+com\app\prod\models\authors\AuthorsEntity.class
+com\app\prod\dao\AuthorsDao.class
+com\app\prod\dao\BooksDao.class
+com\app\prod\service\books\BooksService.class
+com\app\prod\models\books\BooksEntity.class
+com\app\prod\controller\authors\AuthorsController.class
+com\app\prod\models\genres\GenresEntity.class
+com\app\prod\controller\books\BooksController.class
